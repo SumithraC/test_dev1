@@ -1,0 +1,21 @@
+#headingDiv{
+	text-align: center;
+}
+div#searchDiv	{
+	padding-left :350px;
+}
+div#editDiv {
+	padding-left :350px;
+}
+input.searchInput {
+	padding-top : 2px;
+    background-image: url(icons/system_search.png);
+    background-repeat: no-repeat;
+    text-indent: 20px;
+}
+.searchInput:active { background-image: none; }
+
+table.searchTable {
+	border-spacing: 0;
+    border-collapse: collapse;
+}
